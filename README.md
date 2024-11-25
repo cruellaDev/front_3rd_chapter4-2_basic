@@ -6,7 +6,7 @@
 
 > 해당 프로젝트의 배포 도메인 주소입니다.
 
-- [d1yhvyw2o9r6xp.cloudfront.net](d1yhvyw2o9r6xp.cloudfront.net)
+- [d1yhvyw2o9r6xp.cloudfront.net](https://d1yhvyw2o9r6xp.cloudfront.net)
 
 ## 성능 개선 보고서
 
